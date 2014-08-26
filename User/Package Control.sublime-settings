@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"GitGutter",
+		"Laravel 4 Artisan",
+		"Laravel 4 Facades",
+		"Laravel Blade Highlighter",
+		"Theme - Soda",
+		"TrailingSpaces"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"ignored_packages":
+	[
+	],
+	"soda_classic_tabs": true,
+	"soda_retina_fix": true,
+	"theme": "Soda Dark.sublime-theme"
+}
