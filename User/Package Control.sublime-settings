@@ -2,10 +2,16 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"DocBlockr",
 		"GitGutter",
-		"Laravel 4 Artisan",
 		"Laravel 4 Facades",
 		"Laravel Blade Highlighter",
+		"Phpcs",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"SublimeLinter-phpcs",
+		"SublimeLinter-phplint",
+		"SublimeLinter-phpmd",
 		"Theme - Soda",
 		"TrailingSpaces"
 	]
