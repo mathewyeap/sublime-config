@@ -6,12 +6,7 @@
 		"GitGutter",
 		"Laravel 4 Facades",
 		"Laravel Blade Highlighter",
-		"Phpcs",
-		"SublimeLinter",
-		"SublimeLinter-php",
-		"SublimeLinter-phpcs",
-		"SublimeLinter-phplint",
-		"SublimeLinter-phpmd",
+		"SublimeCodeIntel",
 		"Theme - Soda",
 		"TrailingSpaces"
 	]
