@@ -1,6 +1,6 @@
 {
 	"auto_complete_selector": "source, text",
-	"color_scheme": "Packages/User/Tomorrow (SL).tmTheme",
+	"color_scheme": "Packages/User/Paraiso_light (SL).tmTheme",
 	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": true,
 	"ignored_packages":
