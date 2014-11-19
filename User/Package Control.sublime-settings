@@ -2,12 +2,12 @@
 	"installed_packages":
 	[
 		"Alignment",
-		"Colorsublime",
 		"DocBlockr",
 		"EditorConfig",
 		"GitGutter",
 		"Laravel 4 Facades",
 		"Laravel Blade Highlighter",
+		"Paraiso Color Scheme",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
